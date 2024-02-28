@@ -1,0 +1,1 @@
+A simple Python program that can be used to teste whether a MQTT communication is working. For each number selected on the terminal, the code will send a message to the broker and topic selected, which can be read by the program that should act based on the messages receved. At the moment, can only publish to topics
